@@ -24,7 +24,7 @@ class cylinder extends JPanel {
         cylinder panel = new cylinder();
 
         frame.add(panel);
-        frame.setSize(400, 400);
+        frame.setSize(400, 300);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
